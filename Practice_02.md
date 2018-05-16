@@ -33,7 +33,7 @@ _The following is intended to outline our general product direction. It is inten
 
 [Pre-Requisites](#Pre-Requisites)
 
-[Practice 2-1: Signing in to the Console ](#Practice-2-1:-Signing-in-to-the-Console)
+[Practice 2-1: Signing in to the Console ](#Practice-2-1)
 
 [Practice 2-2: Managing Users, Groups and Policies to Control Access](Practice 2-2)
 
@@ -48,7 +48,8 @@ The purpose of this lab is to give you an overview of the IAM Service componen
 
 · Oracle Cloud Infrastructure account credentials (User, Password, and Tenant)  
 
-## Practice 2-1: Signing in to the Console
+## Practice 2-1: 
+### __Signing in to the Console__
 
 Overview
 
@@ -109,9 +110,9 @@ When you sign in to the Console, the home page is displayed.
 The home page gives you quick links to the documentation and to Oracle Support.
 
 ## Practice 2-2: 
-Managing Users, Groups and Policies to Control Access
+### ***Managing Users, Groups and Policies to Control Access***
 
-Overview
+#### Overview
 
 A user's permissions to access services comes from the _groups_ to which they belong. The permissions for a group are defined by policies. Policies define what actions members of a group can perform, and in which compartments. Users can access services and perform operations based on the policies set for the groups of which they are members.
 
@@ -123,7 +124,7 @@ You should have completed Practice 2-1.
 
 Duration: 20 minutes
 
-Tasks
+#### Tasks
 
 1. Create a Group in Your Tenancy
 
