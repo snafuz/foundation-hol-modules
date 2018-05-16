@@ -35,7 +35,7 @@ _The following is intended to outline our general product direction. It is inten
 
 [Practice 2-1: Signing in to the Console ](#Practice-2-1)
 
-[Practice 2-2: Managing Users, Groups and Policies to Control Access](Practice 2-2)
+[Practice 2-2: Managing Users, Groups and Policies to Control Access](Practice-2-2)
 
 
 ## Overview
@@ -48,7 +48,7 @@ The purpose of this lab is to give you an overview of the IAM Service componen
 
 · Oracle Cloud Infrastructure account credentials (User, Password, and Tenant)  
 
-## Practice 2-1: 
+## Practice 2-1 
 ### __Signing in to the Console__
 
 Overview
@@ -109,7 +109,7 @@ When you sign in to the Console, the home page is displayed.
 
 The home page gives you quick links to the documentation and to Oracle Support.
 
-## Practice 2-2: 
+## Practice 2-2 
 ### ***Managing Users, Groups and Policies to Control Access***
 
 #### Overview
